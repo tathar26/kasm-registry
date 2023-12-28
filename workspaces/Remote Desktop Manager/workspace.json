@@ -1,0 +1,24 @@
+{
+  "friendly_name": "Remote Desktop Manager",
+  "image_src": "blob:https://tathar26.github.io/1eaa2582-e272-47bf-8948-2cb526fdaed6",
+  "description": "Ubuntu workspace with Remote Desktop manager installed",
+  "name": "tathar26/kasm-rdm:1.14.0",
+  "cores": 2,
+  "memory": 2768,
+  "gpu_count": 0,
+  "cpu_allocation_method": "Inherit",
+  "docker_registry": "https://index.docker.io/v1/",
+  "categories": [
+    "Remote Access"
+  ],
+  "require_gpu": false,
+  "enabled": true,
+  "image_type": "Container",
+  "architecture": [
+    "amd64"
+  ],
+  "compatibility": [
+    "1.14.x"
+  ],
+  "uncompressed_size_mb": 1770
+}
