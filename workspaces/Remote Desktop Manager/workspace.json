@@ -1,6 +1,6 @@
 {
   "friendly_name": "Remote Desktop Manager",
-  "image_src": "blob:https://tathar26.github.io/1eaa2582-e272-47bf-8948-2cb526fdaed6",
+  "image_src": "rdm.png",
   "description": "Ubuntu workspace with Remote Desktop manager installed",
   "name": "tathar26/kasm-rdm:1.14.0",
   "cores": 2,
